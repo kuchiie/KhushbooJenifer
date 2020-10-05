@@ -1,11 +1,11 @@
 
 <h1 align="center"> <img src="Assets/hello.gif" alt="hello-gif"> <br >I'm <a href="https://www.linkedin.com/in/khushboo-jennifer-9729ba131/">Khushboo Jenifer</a>. Welcome to my GitHub! 🤗</h1>
 
-- I’m currently working on my **Competitive Coding Skills**.  🔭 
+- I’m currently working on my pathway to **Cybersecurity Career**.  🔭 
 
-- I’m currently learning  🌱  MySQL, React.js*, CyberSecurity and how to **flex my profile's [README.md](https://github.com/kuchiie/KhushbooJenifer/tree/master/README.md)** 💪. 
+- I’m currently learning  🌱  Penetration and Vulnerable Testing*, CyberSecurity and how to **build up my profile's [README.md](https://github.com/kuchiie/KhushbooJenifer/tree/master/README.md)** 💪. 
 
-- I’m looking to collaborate on **Open Sourced** Projects 👯  on *Web Devlopment* and *Python* 🐍 related Projects.
+- I’m also looking to collaborate on **Open Sourced** Projects 👯  on *Web Devlopment* and *Python* 🐍 related Projects.
 
 - I’m looking for help with *Machine Learning & Data Science.* 🤔 
 
@@ -20,11 +20,11 @@
 
 ### About Me
 
-I am working on my **Data Structures** and **Algorithms**. My interest lies in **Web Development**, **Application Development**, **CyberSecurity** and **Machine Learning**.
+I am also working on my **Competitive Coding Skills**. My interest lies in **Web Development**, **Application Development**, **CyberSecurity** and **Machine Learning**.
 
 I aim to be an **Opensource contributor**. 
 
-I have the **attitude** of a learner, the **courage** of an entrepreneur and the **thinking** of an optimist, engraved inside me.
+I have the **attitude** of a learner and the **thinking** of an optimist, engraved inside me.
 
 I wish to be a leader in my community of people and a desire to contribute to **environment** and **society**.
 
