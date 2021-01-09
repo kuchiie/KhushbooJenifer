@@ -73,8 +73,10 @@
 <img align="right" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" />
 
 ## Operating Systems
-<br>
+
 </details>
+<br>
+<hr>
 <p align="center"> <img src="https://github.com/kuchiie/kuchiie/blob/master/Assets/coder.gif" alt="codergif" /> </p>
 
 
@@ -89,7 +91,6 @@
 - Fun fact: 86% of people try to plus in their USB devices upside down. That makes me feel a lot better about getting it wrong every time! ⚡ 
 
 <br><br>
-<hr>
 <h2>
 Connect with me<img src="https://github.com/kuchiie/kuchiie/blob/master/Assets/Handshake.gif" height="32px">
 </h2>
