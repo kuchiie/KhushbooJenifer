@@ -20,7 +20,6 @@
   <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=kuchiie&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
-<hr>
 <details >
  <summary><h3>👩About Me</h3></summary>  
       I am also working on my Competitive Coding Skills.My interest lies in Web Development, Application Development and CyberSecurity.
