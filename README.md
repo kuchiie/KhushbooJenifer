@@ -73,7 +73,7 @@
 <img align="right" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" />
 
 ## Operating Systems
-
+<br>
 </details>
 <p align="center"> <img src="https://github.com/kuchiie/kuchiie/blob/master/Assets/coder.gif" alt="codergif" /> </p>
 
