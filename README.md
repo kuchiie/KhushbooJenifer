@@ -20,7 +20,7 @@
   <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=kuchiie&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
-
+<hr>
 <details >
  <summary><h3>👩About Me</h3></summary>  
       I am also working on my Competitive Coding Skills.My interest lies in Web Development, Application Development and CyberSecurity.
@@ -29,7 +29,7 @@
       I wish to be a leader in my community of people and a desire to contribute to environment and society.<br>
       Currently, aim is to become a globally competent individual with programming skills along with business leadership/entrepreneurship skills.
 </details>
- 
+ <hr>
 <details>
  <summary><h3>📃 My Resume</h3></summary>
   <br>
@@ -90,6 +90,7 @@
 - Fun fact: 86% of people try to plus in their USB devices upside down. That makes me feel a lot better about getting it wrong every time! ⚡ 
 
 <br>
+<hr>
 <h2>
 Connect with me<img src="https://github.com/kuchiie/kuchiie/blob/master/Assets/Handshake.gif" height="32px">
 </h2>
