@@ -22,16 +22,16 @@
 </p>
 
 <details >
-    <summary>👩About Me</summary>  
-      I am also working on my **Competitive Coding Skills**. My interest lies in **Web Development**, **Application Development**, **CyberSecurity** and **Machine Learning**.
-      I aim to be an **Opensource contributor**. 
-      I have the **attitude** of a learner and the **thinking** of an optimist, engraved inside me.
-      I wish to be a leader in my community of people and a desire to contribute to **environment** and **society**.
-      Currently, aim is to become a globally competent individual with **programming skills** along with **business leadership/entrepreneurship skills**.
+ <summary><h3>👩About Me</h3></summary>  
+      I am also working on my Competitive Coding Skills.My interest lies in Web Development, Application Development and CyberSecurity.
+      I aim to be an Opensource contributor. 
+      I have the attitude of a learner and the thinking of an optimist, engraved inside me. <br>
+      I wish to be a leader in my community of people and a desire to contribute to environment and society.<br>
+      Currently, aim is to become a globally competent individual with programming skills along with business leadership/entrepreneurship skills.
 </details>
  
 <details>
- <summary>📃 My Resume</summary>
+ <summary><h3>📃 My Resume</h3></summary>
   <br>
   <a href="https://drive.google.com/drive/u/0/folders/12MhyZ3FichAi7E4jSCbDVFpK-eLDQ6d4">Download📝</a> 
 
@@ -75,6 +75,7 @@
 ## Operating Systems
 
 </details>
+<p align="center"> <img src="https://github.com/kuchiie/kuchiie/blob/master/Assets/coder.gif" alt="codergif" /> </p>
 
 
   
@@ -89,7 +90,7 @@
 
 <br>
 <h2>
-Connect with me<img src="https://github.com/tusharnankani/tusharnankani/blob/master/Assets/Handshake.gif" height="32px">
+Connect with me<img src="https://github.com/kuchiie/kuchiie/blob/master/Assets/Handshake.gif" height="32px">
 </h2>
 
 [<img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white" width="12%">](https://www.facebook.com/kuchiie/)
