@@ -89,7 +89,7 @@
 
 - Fun fact: 86% of people try to plus in their USB devices upside down. That makes me feel a lot better about getting it wrong every time! ⚡ 
 
-<br><br>
+<br>
 <h2>
 Connect with me<img src="https://github.com/kuchiie/kuchiie/blob/master/Assets/Handshake.gif" height="32px">
 </h2>
