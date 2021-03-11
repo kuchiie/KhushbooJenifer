@@ -75,7 +75,7 @@
 
 </details>
 <hr>
-<p align="center"> <img src="https://github.com/kuchiie/kuchiie/blob/master/Assets/hackergirl.gif" alt="codergif" /> </p>
+<p align="center"> <img src="https://github.com/kuchiie/kuchiie/blob/master/Assets/EgUx.gif" alt="codergif" /> </p>
 
 
   
