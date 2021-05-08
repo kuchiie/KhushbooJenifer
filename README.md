@@ -28,19 +28,19 @@
       I wish to be a leader in my community of people and a desire to contribute to environment and society.<br>
       Currently, aim is to become a globally competent individual with programming skills along with business leadership/entrepreneurship skills.
 </details>
+ <!--
  <hr>
-<details>
+ <details>
  <summary><h3>📃 My Resume</h3></summary>
   <br>
   <a href="https://drive.google.com/drive/u/0/folders/12MhyZ3FichAi7E4jSCbDVFpK-eLDQ6d4">Download📝</a> 
-
+--
 ## Education
    - 📖 **UG**\
      📆 2016 - 2020\
      📍 **Karunya University** - Coimbatore
-
+--
 ## Experience
-
 - 👨‍💻 **Software Analyst**\
      📆 2019 - Moment\
      📍 **Aspire Systems** - Chennai
